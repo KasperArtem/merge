@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Before 2.0
-Hey
-=======
+Before
 Hey
 After
-after after
->>>>>>> master
+
